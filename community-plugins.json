@@ -35649,5 +35649,12 @@
     "author": "frog",
     "description": "Finder-like behavior for the file explorer: click the triangle to expand, click a folder to select it, and create new notes inside the selected folder. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "frogtempest/select-folder"
+  },
+  {
+    "id": "notebookpoint",
+    "name": "NotebookPoint",
+    "author": "monoi",
+    "description": "把你在微信里转发的文章、链接、资料,自动同步成本地 Markdown 笔记。",
+    "repo": "jiangzizhao/notebookpoint"
   }
 ]
